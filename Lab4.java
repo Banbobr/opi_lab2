@@ -19,4 +19,5 @@ public class Lab4 {
   a.m23(c);
   }
 }
-previous : 6
+previous : 9
+previous : 11
